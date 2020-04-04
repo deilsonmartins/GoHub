@@ -7,18 +7,27 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-01?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/deilsonmartins/GoHub">
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/deilsonmartins/GoHub">
 
+  <a href="https://github.com/deilsonmartins/GoHub/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/deilsonmartins/GoHub">
+  </a>
+
+  <a href="https://github.com/deilsonmartins/GoHub/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/deilsonmartins/GoHub">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
 
 <p align="center">
-  <a href="#rocket-sobre-a-aplicação">Sobre a Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-instalação-e-execução"> Instalação e Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#rocket-como-contribuir">Como Contribuir</a>
+  <a href="#-sobre-a-aplicação">Sobre a Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação-e-execução"> Instalação e Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-como-contribuir">Como Contribuir</a>
 </p>
 
 
@@ -27,15 +36,15 @@
 
 
 
-## :rocket: Sobre a Aplicação
+## 💻 Sobre a Aplicação
 
 Este projeto é um mecanismo de pesquisa de repositórios no GitHub para visualizar os últimos cinco issues.
 
-## :rocket: Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 - **React** — Uma biblioteca para construir interfaces
 - **Axios** — Requisições de API
 
-## :rocket: Instalação e Execução
+## 🔥 Instalação e Execução
 
 Faça um clone desse repositório.
 
@@ -44,7 +53,7 @@ Faça um clone desse repositório.
 3. Rode `yarn start` para iniciar o client.
 
 
-## :rocket: Como Contribuir
+## 🤔 Como Contribuir
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
